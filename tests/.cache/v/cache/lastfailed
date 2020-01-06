@@ -1,0 +1,5 @@
+{
+  "test_client.py": true,
+  "test_client.py::TestClient::test_client_creation_by_checking_filesize_before_and_after": true,
+  "test_client.py::test_client_creation_by_checking_filesize_before_and_after": true
+}
